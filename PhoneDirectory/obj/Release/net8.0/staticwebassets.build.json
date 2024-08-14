@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nw10FeQzJHsz+xOHbnXGYSDFXWrOTMD7OGYibZgXGQ8=",
+  "Source": "PhoneDirectory",
+  "BasePath": "_content/PhoneDirectory",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
