@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Hosting;
 using PhoneDirectory.Data;
 using PhoneDirectory.Dtos.PersonDtos;
 using PhoneDirectory.Extensions;
@@ -19,12 +20,14 @@ namespace PhoneDirectory.Controllers
     {
         private readonly PersonService _personService;
         private readonly UserManager<AppUser> _userManager;
+        private readonly IWebHostEnvironment _environment;
 
 
-        public PersonController(UserManager<AppUser> userManager, PersonService personService)
+        public PersonController(UserManager<AppUser> userManager, PersonService personService, IWebHostEnvironment environment)
         {
             _userManager = userManager;
             _personService = personService;
+            _environment = environment;
         }
         [HttpGet]
         [Route("GetAll")]
@@ -38,15 +41,32 @@ namespace PhoneDirectory.Controllers
 
         [HttpPost]
         [Route("CreatePerson")]
-        public async Task<IActionResult> CreatePerson([FromBody] CreatePersonDto createPersonDto)
+        public async Task<IActionResult> CreatePerson([FromForm] CreatePersonDto createPersonDto)
         {
 
 
             try
             {
                 var username = User.GetEmail();
-                var user = await _userManager.FindByEmailAsync(username);
+                var user = await _userManager.FindByEmailAsync(username); 
                 var person = createPersonDto.ToPersonFromCreatePersonDto();
+
+                if (createPersonDto.PhotoUrl!=null) {
+                    var extension = Path.GetExtension(createPersonDto.PhotoUrl.FileName);
+                    var newname = Guid.NewGuid() + extension;
+                    var uploadsFolder = Path.Combine(Directory.GetCurrentDirectory(), "uploads");
+                    if (!Directory.Exists(uploadsFolder))
+                    {
+                        Directory.CreateDirectory(uploadsFolder);
+                    }
+                    var location = Path.Combine(Directory.GetCurrentDirectory(), uploadsFolder, newname);
+
+                    var stream =new FileStream(location,FileMode.Create);
+                    createPersonDto.PhotoUrl.CopyTo(stream);
+                    Photo photo = new Photo { PhotoDetail=newname};
+                    person.Photo = photo;
+                }
+
                 person.Appuser = user;
                 person.AppUserId = user.Id;
                 await _personService.createPerson(person);
@@ -61,9 +81,9 @@ namespace PhoneDirectory.Controllers
                 return BadRequest(new { ErrorCode = "PERSON_NUMBER_MUST_BE_VALID", message = ex.Message });
             }
 
-            catch
+            catch(Exception ex) 
             {
-                return StatusCode(500, new { ErrorCode = "SERVER_ERROR", Message = "An unexpected error occurred." });
+                return StatusCode(500, new { ErrorCode = "SERVER_ERROR", Message = ex.Message! });
             }
         }
         [HttpGet]
@@ -79,7 +99,7 @@ namespace PhoneDirectory.Controllers
         }
         [HttpPut]
         [Route("UpdatePerson/{personId}")]
-        public async Task<IActionResult> UpdateAddress([FromRoute]int personId, [FromBody] UpdatePersonDto updatePersonDto)
+        public async Task<IActionResult> UpdatePerson([FromRoute]int personId, [FromForm] UpdatePersonDto updatePersonDto)
         {
             if (updatePersonDto == null)
             {
@@ -91,6 +111,8 @@ namespace PhoneDirectory.Controllers
             {
                 var username = User.GetEmail();
                 var user = await _userManager.FindByEmailAsync(username);
+
+          
 
                 var updatedPerson = await _personService.updatePerson(updatePersonDto,personId);
                 var persondto =updatedPerson.ToPersonDtoFromPerson();

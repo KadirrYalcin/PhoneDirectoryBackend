@@ -11,7 +11,7 @@
 
         public List<PhoneNumber> PhoneNumber { get; set; } = new List<PhoneNumber>();
         public Address? Address { get; set; }
-        public PhotoUrl? PhotoUrl { get; set; }
+        public Photo? Photo { get; set; }
         public Email? Email { get; set; }   
     }
 }

@@ -51,13 +51,13 @@ namespace PhoneDirectory.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "0e86e68b-eafe-4cb3-8a41-ec2f37540ba3",
+                            Id = "1043b10a-6df7-4d27-a883-223723fea5af",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         },
                         new
                         {
-                            Id = "fc2005ab-63f1-49b6-bc65-26cad7c9756b",
+                            Id = "6e26965e-1a31-4107-adaa-bd5e7e899830",
                             Name = "User",
                             NormalizedName = "USER"
                         });
@@ -353,7 +353,7 @@ namespace PhoneDirectory.Migrations
                     b.ToTable("PhoneNumbers");
                 });
 
-            modelBuilder.Entity("PhoneDirectory.Models.PhotoUrl", b =>
+            modelBuilder.Entity("PhoneDirectory.Models.Photo", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -367,7 +367,7 @@ namespace PhoneDirectory.Migrations
                     b.Property<int>("PersonId")
                         .HasColumnType("int");
 
-                    b.Property<string>("PhotoUrlDetail")
+                    b.Property<string>("PhotoDetail")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("UpdateDate")
@@ -378,7 +378,7 @@ namespace PhoneDirectory.Migrations
                     b.HasIndex("PersonId")
                         .IsUnique();
 
-                    b.ToTable("PhotoUrls");
+                    b.ToTable("Photos");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -476,11 +476,11 @@ namespace PhoneDirectory.Migrations
                     b.Navigation("Person");
                 });
 
-            modelBuilder.Entity("PhoneDirectory.Models.PhotoUrl", b =>
+            modelBuilder.Entity("PhoneDirectory.Models.Photo", b =>
                 {
                     b.HasOne("PhoneDirectory.Models.Person", "Person")
-                        .WithOne("PhotoUrl")
-                        .HasForeignKey("PhoneDirectory.Models.PhotoUrl", "PersonId")
+                        .WithOne("Photo")
+                        .HasForeignKey("PhoneDirectory.Models.Photo", "PersonId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
@@ -500,7 +500,7 @@ namespace PhoneDirectory.Migrations
 
                     b.Navigation("PhoneNumber");
 
-                    b.Navigation("PhotoUrl");
+                    b.Navigation("Photo");
                 });
 #pragma warning restore 612, 618
         }

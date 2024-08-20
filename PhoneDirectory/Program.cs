@@ -88,6 +88,7 @@ internal class Program
        // builder.Services.AddScoped<UserService, UserRepostory>();
         builder.Services.AddScoped<PersonService, PersonRepostory>();
         builder.Services.AddScoped<TokenService, TokenRepostory>();
+        builder.Services.AddSingleton<IWebHostEnvironment>(builder.Environment);
 
         var app = builder.Build();
 

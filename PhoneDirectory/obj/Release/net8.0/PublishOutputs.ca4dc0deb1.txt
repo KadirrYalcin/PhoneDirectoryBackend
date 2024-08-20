@@ -40,7 +40,6 @@ C:\Users\emirh\source\repos\PhoneDirectory\PhoneDirectory\obj\Release\net8.0\Pub
 C:\Users\emirh\source\repos\PhoneDirectory\PhoneDirectory\obj\Release\net8.0\PubTmp\Out\System.Runtime.Caching.dll
 C:\Users\emirh\source\repos\PhoneDirectory\PhoneDirectory\obj\Release\net8.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
 C:\Users\emirh\source\repos\PhoneDirectory\PhoneDirectory\obj\Release\net8.0\PubTmp\Out\System.Security.Permissions.dll
-C:\Users\emirh\source\repos\PhoneDirectory\PhoneDirectory\obj\Release\net8.0\PubTmp\Out\System.Text.Json.dll
 C:\Users\emirh\source\repos\PhoneDirectory\PhoneDirectory\obj\Release\net8.0\PubTmp\Out\System.Windows.Extensions.dll
 C:\Users\emirh\source\repos\PhoneDirectory\PhoneDirectory\obj\Release\net8.0\PubTmp\Out\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\emirh\source\repos\PhoneDirectory\PhoneDirectory\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll

@@ -1,8 +1,8 @@
 ﻿namespace PhoneDirectory.Models
 {
-    public class PhotoUrl:BaseEntity
+    public class Photo:BaseEntity
     {
-        public string? PhotoUrlDetail { get; set; } = String.Empty;
+        public String? PhotoDetail { get; set; }
         public int PersonId { get; set; }
         public Person? Person { get; set; }
     }

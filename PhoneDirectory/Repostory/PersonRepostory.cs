@@ -1,20 +1,25 @@
 ﻿using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.StaticFiles;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Hosting;
+using Microsoft.IdentityModel.Tokens;
 using PhoneDirectory.Data;
 using PhoneDirectory.Dtos.PersonDtos;
 using PhoneDirectory.Mappers;
 using PhoneDirectory.Models;
 using PhoneDirectory.Services;
 using System;
+using System.IO;
 
 namespace PhoneDirectory.Repostory
 {
-    public class PersonRepostory: PersonService
+    public class PersonRepostory : PersonService
     {
         private readonly ApplicationDBContext _dbContext;
-        public PersonRepostory(ApplicationDBContext applicationDBContext)
+        public PersonRepostory(ApplicationDBContext applicationDBContext, IWebHostEnvironment environment)
         {
-            _dbContext=applicationDBContext;
+            _dbContext = applicationDBContext;
+
         }
 
         public async Task<Person> createPerson(Person person)
@@ -41,9 +46,9 @@ namespace PhoneDirectory.Repostory
             {
                 await _dbContext.Addresses.AddAsync(person.Address);
             }
-            if (person.PhotoUrl != null && person.PhotoUrl.Id == 0)
+            if (person.Photo != null && person.Photo.Id == 0)
             {
-                await _dbContext.PhotoUrls.AddAsync(person.PhotoUrl);
+                await _dbContext.Photos.AddAsync(person.Photo);
             }
 
             // Şimdi person nesnesini ekle
@@ -59,7 +64,7 @@ namespace PhoneDirectory.Repostory
                 var person = await _dbContext.Persons
                     .Include(p => p.Email)
                     .Include(p => p.Address)
-                    .Include(p => p.PhotoUrl)
+                    .Include(p => p.Photo)
                     .Include(p => p.PhoneNumber)
                     .FirstOrDefaultAsync(p => p.Id == DeletePerson.Id);
 
@@ -86,10 +91,10 @@ namespace PhoneDirectory.Repostory
                     _dbContext.Addresses.Remove(person.Address);
                 }
 
-                // İlişkili PhotoUrl verisini sil
-                if (person.PhotoUrl != null)
+                // İlişkili Photo verisini sil
+                if (person.Photo != null)
                 {
-                    _dbContext.PhotoUrls.Remove(person.PhotoUrl);
+                    _dbContext.Photos.Remove(person.Photo);
                 }
 
                 // Son olarak Person nesnesini sil
@@ -97,7 +102,7 @@ namespace PhoneDirectory.Repostory
 
                 // Değişiklikleri veritabanına kaydet
                 await _dbContext.SaveChangesAsync();
-             
+
             }
         }
 
@@ -110,21 +115,21 @@ namespace PhoneDirectory.Repostory
                 .Include(p => p.PhoneNumber)
                 .Include(p => p.Address)
                 .Include(p => p.Email)
-                .Include(p => p.PhotoUrl)
+                .Include(p => p.Photo)
                 .ToListAsync();
 
             foreach (var item in personList)
             {
-                personDtoList.Add(item.ToPersonDtoFromPerson());
+
+          
+                PersonDto personDto = item.ToPersonDtoFromPerson();
+
+                personDtoList.Add(personDto);
             }
 
             return personDtoList;
         }
 
-        public async Task<PersonDto>? getPerson()
-        {
-            throw new NotImplementedException();
-        }
 
         public async Task<Person> GetPersonById(int id)
         {
@@ -132,25 +137,26 @@ namespace PhoneDirectory.Repostory
                    .Include(p => p.PhoneNumber)
                    .Include(p => p.Address)
                    .Include(p => p.Email)
-                   .Include(p=>p.PhotoUrl)
+                   .Include(p => p.Photo)
                    .FirstOrDefaultAsync(p => p.Id == id);
 
             return person;
         }
 
-        public async Task<Person> updatePerson(UpdatePersonDto updatePersonDto,int PersonId)
+        public async Task<Person> updatePerson(UpdatePersonDto updatePersonDto, int PersonId)
         {
             // Person nesnesini, ilgili ilişkilerle birlikte veritabanından al
             var person = await _dbContext.Persons
                 .Include(p => p.Email)
                 .Include(p => p.Address)
-                .Include(p => p.PhotoUrl)
                 .Include(p => p.PhoneNumber)
+                .Include(p => p.Photo)
                 .FirstOrDefaultAsync(p => p.Id == PersonId);
-           if (person == null)
+            if (person == null)
             {
                 return null; // Eğer kişi bulunamazsa, null döndür
-            } else if (string.IsNullOrEmpty(updatePersonDto.FullName))
+            }
+            else if (string.IsNullOrEmpty(updatePersonDto.FullName))
             {
                 throw new ArgumentException("Full Name cannot be empty.", nameof(updatePersonDto.FullName));
             }
@@ -158,7 +164,7 @@ namespace PhoneDirectory.Repostory
             {
                 throw new ArgumentException("phone number must be valid.", nameof(updatePersonDto.FullName));
             }
-           
+
 
             // Email güncelleme
             if (person.Email != null)
@@ -170,7 +176,7 @@ namespace PhoneDirectory.Repostory
             else if (!string.IsNullOrEmpty(updatePersonDto.EmailDetail))
             {
                 var newEmail = new Email { EmailDetail = updatePersonDto.EmailDetail };
-                 person.Email= newEmail;
+                person.Email = newEmail;
                 await _dbContext.Emails.AddAsync(newEmail);
                 await _dbContext.SaveChangesAsync();
             }
@@ -189,47 +195,58 @@ namespace PhoneDirectory.Repostory
                 await _dbContext.SaveChangesAsync();
             }
 
-            // PhotoUrl güncelleme
-            if (person.PhotoUrl != null)
+            // Fotoğraf yolunu güncelleme işlemi
+            if (person.Photo != null)
             {
-                person.PhotoUrl.PhotoUrlDetail = updatePersonDto.PhotoUrl;
-                person.PhotoUrl.UpdateDate = DateTime.Now;
-            }
-            else if (!string.IsNullOrEmpty(updatePersonDto.PhotoUrl))
-            {
-                var newPhotoUrl = new PhotoUrl { PhotoUrlDetail = updatePersonDto.PhotoUrl };
-                person.PhotoUrl = newPhotoUrl;
-                await _dbContext.PhotoUrls.AddAsync(newPhotoUrl);
-                await _dbContext.SaveChangesAsync();
-            }
-
-            // PhoneNumber güncelleme (bu durumda, önceki telefon numaralarını temizle ve yenilerini ekle)
-            if (updatePersonDto.PhoneNumber != null)
-            {
-                // Önceki telefon numaralarını sil
-                var existingPhoneNumbers = _dbContext.PhoneNumbers.Where(pn => pn.PersonId == person.Id);
-                _dbContext.PhoneNumbers.RemoveRange(existingPhoneNumbers);
-
-                // Yeni telefon numaralarını ekle
-                var newPhoneNumbers = updatePersonDto.PhoneNumber.Select(phone => new PhoneNumber
+                if (updatePersonDto.PhotoUrl != null)
                 {
-                    PhoneNumberDetail = phone,
-                    PersonId = person.Id
-                }).ToList();
-                await _dbContext.PhoneNumbers.AddRangeAsync(newPhoneNumbers);
+                    var extension = Path.GetExtension(updatePersonDto.PhotoUrl.FileName);
+                    var newname = person.Id + extension;
+                    var uploadsFolder = Path.Combine(Directory.GetCurrentDirectory(), "uploads");
+                    if (!Directory.Exists(uploadsFolder))
+                    {
+                        Directory.CreateDirectory(uploadsFolder);
+                    }
+                    var location = Path.Combine(Directory.GetCurrentDirectory(), uploadsFolder, newname);
+
+                    var stream = new FileStream(location, FileMode.Create);
+                    updatePersonDto.PhotoUrl.CopyTo(stream);
+                    Photo photo = new Photo { PhotoDetail = newname };
+                    person.Photo = photo;
+                }
+            }
+  
+
+                // PhoneNumber güncelleme (bu durumda, önceki telefon numaralarını temizle ve yenilerini ekle)
+                if (updatePersonDto.PhoneNumber != null)
+                {
+                    // Önceki telefon numaralarını sil
+                    var existingPhoneNumbers = _dbContext.PhoneNumbers.Where(pn => pn.PersonId == person.Id);
+                    _dbContext.PhoneNumbers.RemoveRange(existingPhoneNumbers);
+
+                    // Yeni telefon numaralarını ekle
+                    var newPhoneNumbers = updatePersonDto.PhoneNumber.Select(phone => new PhoneNumber
+                    {
+                        PhoneNumberDetail = phone,
+                        PersonId = person.Id
+                    }).ToList();
+                    await _dbContext.PhoneNumbers.AddRangeAsync(newPhoneNumbers);
+                }
+
+                // Diğer alanları güncelle
+                person.FullName = updatePersonDto.FullName;
+                person.Birthday = updatePersonDto.Birthday;
+                person.IsFavourite = updatePersonDto.IsFavourite; // Eğer varsa
+                person.UpdateDate = DateTime.Now;
+
+                // Person nesnesini güncelle ve değişiklikleri kaydet
+                _dbContext.Persons.Update(person);
+                await _dbContext.SaveChangesAsync();
+
+                return person;
             }
 
-            // Diğer alanları güncelle
-            person.FullName = updatePersonDto.FullName;
-            person.Birthday = updatePersonDto.Birthday;
-            person.IsFavourite = updatePersonDto.IsFavourite; // Eğer varsa
-            person.UpdateDate = DateTime.Now;
-
-            // Person nesnesini güncelle ve değişiklikleri kaydet
-            _dbContext.Persons.Update(person);
-            await _dbContext.SaveChangesAsync();
-
-            return person;
         }
-    }
+
+    
 }

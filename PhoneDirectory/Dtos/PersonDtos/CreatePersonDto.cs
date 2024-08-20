@@ -8,7 +8,7 @@ namespace PhoneDirectory.Dtos.PersonDtos
         public List<string> PhoneNumber { get; set; } = new List<string>();
 
         // Opsiyonel alanlar
-        public string? PhotoUrl { get; set; }
+        public IFormFile? PhotoUrl { get; set; }
         public string? Birthday { get; set; }
         public string? AddressDetail { get; set; }
         public string? EmailDetail { get; set; }

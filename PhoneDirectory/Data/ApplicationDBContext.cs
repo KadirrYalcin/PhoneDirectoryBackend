@@ -15,7 +15,7 @@ namespace PhoneDirectory.Data
         public DbSet<Person> Persons { get; set; }
         public DbSet<Address> Addresses { get; set; }
         public DbSet<Email> Emails { get; set; }
-        public DbSet<PhotoUrl> PhotoUrls { get; set; }
+        public DbSet<Photo> Photos { get; set; }
         public DbSet<PhoneNumber> PhoneNumbers{ get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -54,10 +54,10 @@ namespace PhoneDirectory.Data
                  .WithOne(e => e.Address)
                  .HasForeignKey<Address>(d => d.PersonId);
 
-            modelBuilder.Entity<PhotoUrl>()
+            modelBuilder.Entity<Photo>()
                  .HasOne(p => p.Person)
-                 .WithOne(e => e.PhotoUrl)
-                 .HasForeignKey<PhotoUrl>(d => d.PersonId);
+                 .WithOne(e => e.Photo)
+                 .HasForeignKey<Photo>(d => d.PersonId);
 
 
         }

@@ -2,6 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>C:\Users\emirh\source\repos\PhoneDirectory\PhoneDirectory\Properties\PublishProfiles\IISProfile5.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\emirh\source\repos\PhoneDirectory\PhoneDirectory\Properties\PublishProfiles\FolderProfile6.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

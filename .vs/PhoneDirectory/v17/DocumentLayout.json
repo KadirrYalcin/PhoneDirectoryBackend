@@ -7,56 +7,24 @@
       "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\phonedirectory.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\phonedirectory.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\dtos\\persondtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\dtos\\persondtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\extensions\\claimextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\extensions\\claimextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\repostory\\personrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\repostory\\personrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\mappers\\personmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\mappers\\personmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\dtos\\persondtos\\updatepersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,172 +35,56 @@
       "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\dtos\\persondtos\\createpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\dtos\\persondtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\dtos\\persondtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\repostory\\tokenrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\repostory\\tokenrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\dtos\\accountdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\dtos\\accountdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\dtos\\accountdtos\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\dtos\\accountdtos\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\dtos\\accountdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\dtos\\accountdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240813072346_seedRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240813072346_seedRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240813070030_Identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240813070030_Identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240810112909_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240810112909_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240810112836_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240810112836_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240809133206_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240809133206_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240808074232_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240808074232_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240806105502_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240806105502_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240806104832_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240806104832_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240806084822_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240806084822_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240806083439_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240806083439_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240806082848_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240806082848_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731105906_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731105906_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731092904_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731092904_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731102151_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731102151_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731091526_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731091526_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731091447_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731091447_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731091244_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731091244_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731091127_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731091127_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731090817_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731090817_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731090627_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731090627_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731085212_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731085212_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731082701_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731082701_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731082455_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731082455_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731082131_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731082131_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731075428_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731075428_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731075117_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731075117_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731075031_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731075031_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731073756_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731073756_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731073305_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731073305_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731072916_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhoneDirectory\\Migrations\\20240731072916_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\models\\photourl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\models\\photourl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\models\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\models\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\dtos\\accountdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\dtos\\accountdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\dtos\\accountdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\dtos\\accountdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\dtos\\accountdtos\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\dtos\\accountdtos\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\migrations\\20240813105447_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\migrations\\20240813105447_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\phonedirectory.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\phonedirectory.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\migrations\\20240819111937_foto ekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\migrations\\20240819111937_foto ekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -242,11 +94,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "PhoneDirectory\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:55:58.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240819111937_Foto ekleme.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240819111937_Foto ekleme.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240819111937_Foto ekleme.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240819111937_Foto ekleme.cs",
+              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240819111937_Foto ekleme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:19:37.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Models\\Email.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\Email.cs",
+              "RelativeToolTip": "PhoneDirectory\\Models\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:43:26.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Program.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Program.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Program.cs",
+              "RelativeToolTip": "PhoneDirectory\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAASwDcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:09:58.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Services\\PersonService.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Services\\PersonService.cs",
+              "RelativeToolTip": "PhoneDirectory\\Services\\PersonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:12:28.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Repostory\\PersonRepostory.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Repostory\\PersonRepostory.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Repostory\\PersonRepostory.cs",
+              "RelativeToolTip": "PhoneDirectory\\Repostory\\PersonRepostory.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAwJkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:05:27.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\PersonDto.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\PersonDtos\\PersonDto.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\PersonDto.cs",
+              "RelativeToolTip": "PhoneDirectory\\Dtos\\PersonDtos\\PersonDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:55:03.409Z"
             },
             {
               "$type": "Document",
@@ -256,184 +192,70 @@
               "RelativeDocumentMoniker": "PhoneDirectory\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Controllers\\AccountController.cs",
               "RelativeToolTip": "PhoneDirectory\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T07:05:58.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PersonController.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Controllers\\PersonController.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Controllers\\PersonController.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Controllers\\PersonController.cs",
-              "RelativeToolTip": "PhoneDirectory\\Controllers\\PersonController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:57:05.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PersonService.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Services\\PersonService.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Services\\PersonService.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Services\\PersonService.cs",
-              "RelativeToolTip": "PhoneDirectory\\Services\\PersonService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T11:04:27.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CreatePersonDto.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\CreatePersonDto.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\PersonDtos\\CreatePersonDto.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\CreatePersonDto.cs",
-              "RelativeToolTip": "PhoneDirectory\\Dtos\\PersonDtos\\CreatePersonDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:57:24.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\appsettings.json",
-              "RelativeDocumentMoniker": "PhoneDirectory\\appsettings.json",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\appsettings.json",
-              "RelativeToolTip": "PhoneDirectory\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-29T08:58:00.506Z",
+              "WhenOpened": "2024-08-14T11:45:46.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Program.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Program.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Program.cs",
-              "RelativeToolTip": "PhoneDirectory\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAIAAAA",
+              "Title": "PersonMapper.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Mappers\\PersonMapper.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Mappers\\PersonMapper.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Mappers\\PersonMapper.cs",
+              "RelativeToolTip": "PhoneDirectory\\Mappers\\PersonMapper.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAIAwwDEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T08:57:21.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T11:55:20.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PhoneDirectory.http",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\PhoneDirectory.http",
-              "RelativeDocumentMoniker": "PhoneDirectory\\PhoneDirectory.http",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\PhoneDirectory.http",
-              "RelativeToolTip": "PhoneDirectory\\PhoneDirectory.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-08-02T14:25:22.376Z"
+              "DocumentIndex": 12,
+              "Title": "PhotoUrl.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\PhotoUrl.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Models\\PhotoUrl.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\PhotoUrl.cs",
+              "RelativeToolTip": "PhoneDirectory\\Models\\PhotoUrl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:16:17.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "PhoneDirectory\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\appsettings.Development.json",
-              "RelativeToolTip": "PhoneDirectory\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-31T11:07:19.886Z"
+              "DocumentIndex": 7,
+              "Title": "CreatePersonDto.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\CreatePersonDto.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\PersonDtos\\CreatePersonDto.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\CreatePersonDto.cs",
+              "RelativeToolTip": "PhoneDirectory\\Dtos\\PersonDtos\\CreatePersonDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:08:32.186Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "UpdatePersonDto.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\UpdatePersonDto.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\PersonDtos\\UpdatePersonDto.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\UpdatePersonDto.cs",
+              "RelativeToolTip": "PhoneDirectory\\Dtos\\PersonDtos\\UpdatePersonDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:13:38.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Data\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "PhoneDirectory\\Data\\ApplicationDBContext.cs",
               "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Data\\ApplicationDBContext.cs",
               "RelativeToolTip": "PhoneDirectory\\Data\\ApplicationDBContext.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAA4wB8AAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T09:08:27.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ClaimExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Extensions\\ClaimExtensions.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Extensions\\ClaimExtensions.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Extensions\\ClaimExtensions.cs",
-              "RelativeToolTip": "PhoneDirectory\\Extensions\\ClaimExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T11:04:51.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\AppUser.cs",
-              "RelativeToolTip": "PhoneDirectory\\Models\\AppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T06:45:44.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Email.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\Email.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Models\\Email.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\Email.cs",
-              "RelativeToolTip": "PhoneDirectory\\Models\\Email.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T07:42:08.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Services\\TokenService.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Services\\TokenService.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Services\\TokenService.cs",
-              "RelativeToolTip": "PhoneDirectory\\Services\\TokenService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T07:30:42.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PersonRepostory.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Repostory\\PersonRepostory.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Repostory\\PersonRepostory.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Repostory\\PersonRepostory.cs",
-              "RelativeToolTip": "PhoneDirectory\\Repostory\\PersonRepostory.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAowJEAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T11:04:42.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PersonDto.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\PersonDto.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\PersonDtos\\PersonDto.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\PersonDto.cs",
-              "RelativeToolTip": "PhoneDirectory\\Dtos\\PersonDtos\\PersonDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T11:17:36.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T06:32:02.616Z"
             },
             {
               "$type": "Document",
@@ -443,488 +265,92 @@
               "RelativeDocumentMoniker": "PhoneDirectory\\Models\\Person.cs",
               "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\Person.cs",
               "RelativeToolTip": "PhoneDirectory\\Models\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T07:34:09.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UpdatePersonDto.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\UpdatePersonDto.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\PersonDtos\\UpdatePersonDto.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\UpdatePersonDto.cs",
-              "RelativeToolTip": "PhoneDirectory\\Dtos\\PersonDtos\\UpdatePersonDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T11:08:28.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TokenRepostory.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Repostory\\TokenRepostory.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Repostory\\TokenRepostory.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Repostory\\TokenRepostory.cs",
-              "RelativeToolTip": "PhoneDirectory\\Repostory\\TokenRepostory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T07:31:37.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T07:14:20.224Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "PersonMapper.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Mappers\\PersonMapper.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Mappers\\PersonMapper.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Mappers\\PersonMapper.cs",
-              "RelativeToolTip": "PhoneDirectory\\Mappers\\PersonMapper.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowCgAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T11:26:30.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "20240813105447_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240813105447_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240813105447_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240813105447_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240813105447_Inital.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T10:54:47.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\AccountDtos\\LoginDto.cs",
               "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\AccountDtos\\LoginDto.cs",
               "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\AccountDtos\\LoginDto.cs",
               "RelativeToolTip": "PhoneDirectory\\Dtos\\AccountDtos\\LoginDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T09:15:39.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T06:31:56.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "NewUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\AccountDtos\\NewUserDto.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\AccountDtos\\NewUserDto.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\AccountDtos\\NewUserDto.cs",
-              "RelativeToolTip": "PhoneDirectory\\Dtos\\AccountDtos\\NewUserDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T07:44:21.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 14,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\AccountDtos\\RegisterDto.cs",
               "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\AccountDtos\\RegisterDto.cs",
               "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\AccountDtos\\RegisterDto.cs",
               "RelativeToolTip": "PhoneDirectory\\Dtos\\AccountDtos\\RegisterDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T07:09:37.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "20240813072346_seedRole.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240813072346_seedRole.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240813072346_seedRole.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240813072346_seedRole.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240813072346_seedRole.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T07:23:46.88Z"
+              "WhenOpened": "2024-08-19T06:31:59.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20240813070030_Identity.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240813070030_Identity.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240813070030_Identity.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240813070030_Identity.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240813070030_Identity.cs",
+              "DocumentIndex": 15,
+              "Title": "NewUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\AccountDtos\\NewUserDto.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\AccountDtos\\NewUserDto.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\AccountDtos\\NewUserDto.cs",
+              "RelativeToolTip": "PhoneDirectory\\Dtos\\AccountDtos\\NewUserDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T07:00:30.955Z"
+              "WhenOpened": "2024-08-19T06:31:58.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "PhoneDirectory\\Models\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T07:26:06.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\Address.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Models\\Address.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\Address.cs",
-              "RelativeToolTip": "PhoneDirectory\\Models\\Address.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T07:42:30.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "PhotoUrl.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\PhotoUrl.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Models\\PhotoUrl.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\PhotoUrl.cs",
-              "RelativeToolTip": "PhoneDirectory\\Models\\PhotoUrl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T13:31:23.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "PhoneNumber.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\PhoneNumber.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Models\\PhoneNumber.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\PhoneNumber.cs",
-              "RelativeToolTip": "PhoneDirectory\\Models\\PhoneNumber.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T07:42:19.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20240810112909_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240810112909_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240810112909_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240810112909_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240810112909_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T11:29:10.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "20240810112836_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240810112836_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240810112836_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240810112836_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240810112836_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T11:28:36.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "20240809133206_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240809133206_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240809133206_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240809133206_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240809133206_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T13:32:06.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "20240808074232_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240808074232_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240808074232_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240808074232_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240808074232_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T07:42:32.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "20240806105502_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240806105502_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240806105502_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240806105502_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240806105502_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:55:02.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "20240806104832_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240806104832_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240806104832_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240806104832_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240806104832_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:48:32.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "20240806083439_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240806083439_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240806083439_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240806083439_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240806083439_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T08:34:39.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "20240806084822_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240806084822_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240806084822_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240806084822_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240806084822_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T08:48:22.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "20240806082848_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240806082848_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240806082848_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240806082848_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240806082848_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T08:28:48.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "20240731105906_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731105906_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731105906_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731105906_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731105906_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T10:59:06.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "20240731092904_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731092904_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731092904_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731092904_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731092904_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T09:29:04.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "20240731102151_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731102151_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731102151_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731102151_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731102151_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T10:21:51.963Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "20240731091447_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731091447_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731091447_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731091447_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731091447_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T09:14:47.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "20240731091526_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731091526_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731091526_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731091526_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731091526_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T09:15:26.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "20240731091244_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731091244_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731091244_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731091244_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731091244_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T09:12:44.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "20240731091127_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731091127_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731091127_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731091127_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731091127_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T09:11:27.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "20240731090817_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731090817_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731090817_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731090817_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731090817_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T09:08:17.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "20240731090627_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731090627_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731090627_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731090627_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731090627_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T09:06:27.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "20240731085212_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731085212_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731085212_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731085212_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731085212_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T08:52:12.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 18,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "PhoneDirectory\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Properties\\launchSettings.json",
               "RelativeToolTip": "PhoneDirectory\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-29T08:57:38.196Z"
+              "WhenOpened": "2024-08-14T12:40:14.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "20240731082701_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731082701_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731082701_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731082701_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731082701_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T08:27:01.984Z"
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PhoneDirectory\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\appsettings.Development.json",
+              "RelativeToolTip": "PhoneDirectory\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T11:53:43.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "20240731082455_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731082455_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731082455_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731082455_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731082455_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T08:24:55.761Z"
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\appsettings.json",
+              "RelativeDocumentMoniker": "PhoneDirectory\\appsettings.json",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\appsettings.json",
+              "RelativeToolTip": "PhoneDirectory\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T11:53:42.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "20240731075428_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731075428_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731075428_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731075428_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731075428_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T07:54:28.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "20240731075117_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731075117_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731075117_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731075117_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731075117_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T07:51:17.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "20240731082131_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731082131_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731082131_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731082131_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731082131_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T08:21:32.029Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "20240731075031_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731075031_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731075031_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731075031_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731075031_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T07:50:32.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "20240731073756_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731073756_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731073756_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731073756_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731073756_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T07:37:56.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "20240731073305_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731073305_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731073305_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731073305_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731073305_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T07:33:05.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "20240731072916_Inital.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731072916_Inital.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240731072916_Inital.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240731072916_Inital.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240731072916_Inital.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T07:29:16.953Z"
+              "DocumentIndex": 19,
+              "Title": "PhoneDirectory",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\PhoneDirectory.csproj",
+              "RelativeDocumentMoniker": "PhoneDirectory\\PhoneDirectory.csproj",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\PhoneDirectory.csproj",
+              "RelativeToolTip": "PhoneDirectory\\PhoneDirectory.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T11:14:23.784Z"
             }
           ]
         }

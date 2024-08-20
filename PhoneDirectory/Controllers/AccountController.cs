@@ -78,11 +78,10 @@ namespace PhoneDirectory.Controllers
                 return Ok(new NewUserDto { Email = appUser.Email, FullName = appUser.UserName, Token = _tokenService.CreateToken(appUser) });
             }
             catch (Exception ex) {
-                return StatusCode(500, ex);
+                return StatusCode(500);
             }
            
 
         }
     }
-    
 }
