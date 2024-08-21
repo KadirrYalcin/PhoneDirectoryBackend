@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using PhoneDirectory.MiddleWares;
 
 internal class Program
 {
@@ -95,14 +96,18 @@ internal class Program
        
             app.UseSwagger();
             app.UseSwaggerUI();
-      
 
         app.UseHttpsRedirection();
-
+        
+        app.UseRouting();
         app.UseAuthentication();
         app.UseAuthorization();
 
         app.MapControllers();
+        app.UseStaticFiles();   
+        app.UseCdnStaticFiles("uploads");
+
+
 
         app.Run();
     }

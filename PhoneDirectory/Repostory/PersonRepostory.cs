@@ -201,7 +201,7 @@ namespace PhoneDirectory.Repostory
                 if (updatePersonDto.PhotoUrl != null)
                 {
                     var extension = Path.GetExtension(updatePersonDto.PhotoUrl.FileName);
-                    var newname = person.Id + extension;
+                    var newname = Guid.NewGuid() + extension;
                     var uploadsFolder = Path.Combine(Directory.GetCurrentDirectory(), "uploads");
                     if (!Directory.Exists(uploadsFolder))
                     {

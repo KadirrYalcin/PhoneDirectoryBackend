@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\dtos\\persondtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\dtos\\persondtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\repostory\\personrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\repostory\\personrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\repostory\\personrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\repostory\\personrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\middlewares\\addphotomiddlewaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\middlewares\\addphotomiddlewaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\mappers\\personmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\mappers\\personmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\dtos\\persondtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\dtos\\persondtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\dtos\\persondtos\\createpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\dtos\\persondtos\\createpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,22 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\dtos\\persondtos\\updatepersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\dtos\\persondtos\\updatepersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\dtos\\persondtos\\createpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\dtos\\persondtos\\createpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|solutionrelative:phonedirectory\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F59ACB84-1C1B-4EE7-8033-5C5C021AE413}|PhoneDirectory\\PhoneDirectory.csproj|c:\\users\\emirh\\source\\repos\\phonedirectory\\phonedirectory\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,91 +106,123 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "AddPhotoMiddleWaes.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\MiddleWares\\AddPhotoMiddleWaes.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\MiddleWares\\AddPhotoMiddleWaes.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\MiddleWares\\AddPhotoMiddleWaes.cs",
+              "RelativeToolTip": "PhoneDirectory\\MiddleWares\\AddPhotoMiddleWaes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:29:49.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PersonController.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "PhoneDirectory\\Controllers\\PersonController.cs",
               "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Controllers\\PersonController.cs",
               "RelativeToolTip": "PhoneDirectory\\Controllers\\PersonController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAwwG8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T11:55:58.753Z"
+              "WhenOpened": "2024-08-14T11:55:58.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20240819111937_Foto ekleme.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240819111937_Foto ekleme.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240819111937_Foto ekleme.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240819111937_Foto ekleme.cs",
-              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240819111937_Foto ekleme.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T11:19:37.54Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Email.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\Email.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Models\\Email.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\Email.cs",
-              "RelativeToolTip": "PhoneDirectory\\Models\\Email.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T11:43:26.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Program.cs",
               "RelativeDocumentMoniker": "PhoneDirectory\\Program.cs",
               "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Program.cs",
               "RelativeToolTip": "PhoneDirectory\\Program.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAASwDcAAAAIAAAA",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAQwGkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T11:09:58.24Z"
+              "WhenOpened": "2024-08-14T11:09:58.24Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PersonService.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Services\\PersonService.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Services\\PersonService.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Services\\PersonService.cs",
-              "RelativeToolTip": "PhoneDirectory\\Services\\PersonService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T08:12:28.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "PersonRepostory.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Repostory\\PersonRepostory.cs",
               "RelativeDocumentMoniker": "PhoneDirectory\\Repostory\\PersonRepostory.cs",
               "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Repostory\\PersonRepostory.cs",
               "RelativeToolTip": "PhoneDirectory\\Repostory\\PersonRepostory.cs",
-              "ViewState": "AQIAAIoAAAAAAAAAAAAAwJkAAAA6AAAA",
+              "ViewState": "AQIAALQAAAAAAAAAAAAmwMQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T07:05:27.419Z"
+              "WhenOpened": "2024-08-19T07:05:27.419Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonDto.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\PersonDto.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\PersonDtos\\PersonDto.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\PersonDto.cs",
-              "RelativeToolTip": "PhoneDirectory\\Dtos\\PersonDtos\\PersonDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "PersonMapper.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Mappers\\PersonMapper.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Mappers\\PersonMapper.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Mappers\\PersonMapper.cs",
+              "RelativeToolTip": "PhoneDirectory\\Mappers\\PersonMapper.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAIAwwDIAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T11:55:03.409Z"
+              "WhenOpened": "2024-08-17T11:55:20.694Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
+              "Title": "PhotoUrl.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\PhotoUrl.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Models\\PhotoUrl.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\PhotoUrl.cs",
+              "RelativeToolTip": "PhoneDirectory\\Models\\PhotoUrl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:16:17.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\Person.cs",
+              "RelativeToolTip": "PhoneDirectory\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:14:20.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatePersonDto.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\CreatePersonDto.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\PersonDtos\\CreatePersonDto.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\CreatePersonDto.cs",
+              "RelativeToolTip": "PhoneDirectory\\Dtos\\PersonDtos\\CreatePersonDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:08:32.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "PhoneDirectory\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:32:02.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "PhoneDirectory\\Controllers\\AccountController.cs",
@@ -199,43 +235,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PersonMapper.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Mappers\\PersonMapper.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Mappers\\PersonMapper.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Mappers\\PersonMapper.cs",
-              "RelativeToolTip": "PhoneDirectory\\Mappers\\PersonMapper.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAIAwwDEAAAAYAAAA",
+              "DocumentIndex": 6,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\PersonDto.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\PersonDtos\\PersonDto.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\PersonDto.cs",
+              "RelativeToolTip": "PhoneDirectory\\Dtos\\PersonDtos\\PersonDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T11:55:20.694Z"
+              "WhenOpened": "2024-08-17T11:55:03.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Services\\PersonService.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Services\\PersonService.cs",
+              "RelativeToolTip": "PhoneDirectory\\Services\\PersonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:12:28.253Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "PhotoUrl.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\PhotoUrl.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Models\\PhotoUrl.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\PhotoUrl.cs",
-              "RelativeToolTip": "PhoneDirectory\\Models\\PhotoUrl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Models\\Email.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\Email.cs",
+              "RelativeToolTip": "PhoneDirectory\\Models\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T07:16:17.671Z"
+              "WhenOpened": "2024-08-19T11:43:26.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreatePersonDto.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\CreatePersonDto.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\PersonDtos\\CreatePersonDto.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\CreatePersonDto.cs",
-              "RelativeToolTip": "PhoneDirectory\\Dtos\\PersonDtos\\CreatePersonDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAwAAAA",
+              "DocumentIndex": 21,
+              "Title": "20240819111937_Foto ekleme.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240819111937_Foto ekleme.cs",
+              "RelativeDocumentMoniker": "PhoneDirectory\\Migrations\\20240819111937_Foto ekleme.cs",
+              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Migrations\\20240819111937_Foto ekleme.cs",
+              "RelativeToolTip": "PhoneDirectory\\Migrations\\20240819111937_Foto ekleme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T07:08:32.186Z"
+              "WhenOpened": "2024-08-19T11:19:37.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "UpdatePersonDto.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\PersonDtos\\UpdatePersonDto.cs",
               "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\PersonDtos\\UpdatePersonDto.cs",
@@ -247,31 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Data\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Data\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Data\\ApplicationDBContext.cs",
-              "RelativeToolTip": "PhoneDirectory\\Data\\ApplicationDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T06:32:02.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "PhoneDirectory\\Models\\Person.cs",
-              "ToolTip": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Models\\Person.cs",
-              "RelativeToolTip": "PhoneDirectory\\Models\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T07:14:20.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\AccountDtos\\LoginDto.cs",
               "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\AccountDtos\\LoginDto.cs",
@@ -279,11 +304,12 @@
               "RelativeToolTip": "PhoneDirectory\\Dtos\\AccountDtos\\LoginDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T06:31:56.409Z"
+              "WhenOpened": "2024-08-19T06:31:56.409Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\AccountDtos\\RegisterDto.cs",
               "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\AccountDtos\\RegisterDto.cs",
@@ -295,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "NewUserDto.cs",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Dtos\\AccountDtos\\NewUserDto.cs",
               "RelativeDocumentMoniker": "PhoneDirectory\\Dtos\\AccountDtos\\NewUserDto.cs",
@@ -307,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "PhoneDirectory\\Properties\\launchSettings.json",
@@ -319,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\appsettings.Development.json",
               "RelativeDocumentMoniker": "PhoneDirectory\\appsettings.Development.json",
@@ -331,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\appsettings.json",
               "RelativeDocumentMoniker": "PhoneDirectory\\appsettings.json",
@@ -343,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "PhoneDirectory",
               "DocumentMoniker": "C:\\Users\\emirh\\source\\repos\\PhoneDirectory\\PhoneDirectory\\PhoneDirectory.csproj",
               "RelativeDocumentMoniker": "PhoneDirectory\\PhoneDirectory.csproj",
