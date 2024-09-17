@@ -16,7 +16,16 @@ internal class Program
     private static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
-
+        builder.Services.AddCors(config =>
+        {
+            config.AddPolicy("AllowAllOriginsPolicy", builder =>
+            {
+                builder
+                    .AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader();
+            });
+        });
         // Add services to the container.
 
         builder.Services.AddControllers();
@@ -89,6 +98,7 @@ internal class Program
        // builder.Services.AddScoped<UserService, UserRepostory>();
         builder.Services.AddScoped<PersonService, PersonRepostory>();
         builder.Services.AddScoped<TokenService, TokenRepostory>();
+        builder.Services.AddScoped<CdnService, CdnRepostory>();
         builder.Services.AddSingleton<IWebHostEnvironment>(builder.Environment);
 
         var app = builder.Build();
@@ -102,13 +112,13 @@ internal class Program
         app.UseRouting();
         app.UseAuthentication();
         app.UseAuthorization();
-
+        app.UseCors("AllowAllOriginsPolicy");
         app.MapControllers();
         app.UseStaticFiles();   
         app.UseCdnStaticFiles("uploads");
 
 
-
+      
         app.Run();
     }
 }

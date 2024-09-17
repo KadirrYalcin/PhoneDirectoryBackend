@@ -138,6 +138,7 @@ namespace PhoneDirectory.Repostory
                    .Include(p => p.Address)
                    .Include(p => p.Email)
                    .Include(p => p.Photo)
+                   .Include(p => p.Appuser)
                    .FirstOrDefaultAsync(p => p.Id == id);
 
             return person;
@@ -194,31 +195,16 @@ namespace PhoneDirectory.Repostory
                 await _dbContext.Addresses.AddAsync(newAddress);
                 await _dbContext.SaveChangesAsync();
             }
-
-            // Fotoğraf yolunu güncelleme işlemi
-            if (person.Photo != null)
+            else if (!string.IsNullOrEmpty(updatePersonDto.PhotoUrl))
             {
-                if (updatePersonDto.PhotoUrl != null)
-                {
-                    var extension = Path.GetExtension(updatePersonDto.PhotoUrl.FileName);
-                    var newname = Guid.NewGuid() + extension;
-                    var uploadsFolder = Path.Combine(Directory.GetCurrentDirectory(), "uploads");
-                    if (!Directory.Exists(uploadsFolder))
-                    {
-                        Directory.CreateDirectory(uploadsFolder);
-                    }
-                    var location = Path.Combine(Directory.GetCurrentDirectory(), uploadsFolder, newname);
-
-                    var stream = new FileStream(location, FileMode.Create);
-                    updatePersonDto.PhotoUrl.CopyTo(stream);
-                    Photo photo = new Photo { PhotoDetail = newname };
-                    person.Photo = photo;
-                }
+                var newPhoto = new Photo { PhotoDetail = updatePersonDto.PhotoUrl };
+                person.Photo = newPhoto;
+                await _dbContext.Photos.AddAsync(newPhoto);
+                await _dbContext.SaveChangesAsync();
             }
-  
 
-                // PhoneNumber güncelleme (bu durumda, önceki telefon numaralarını temizle ve yenilerini ekle)
-                if (updatePersonDto.PhoneNumber != null)
+            // PhoneNumber güncelleme (bu durumda, önceki telefon numaralarını temizle ve yenilerini ekle)
+            if (updatePersonDto.PhoneNumber != null)
                 {
                     // Önceki telefon numaralarını sil
                     var existingPhoneNumbers = _dbContext.PhoneNumbers.Where(pn => pn.PersonId == person.Id);

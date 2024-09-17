@@ -17,6 +17,7 @@ namespace PhoneDirectory.Mappers
                 IsFavourite = false,
                 Address = !string.IsNullOrEmpty(createPersonDto.AddressDetail) ? new Address { AddressDetail = createPersonDto.AddressDetail } : null,
                 Email = !string.IsNullOrEmpty(createPersonDto.EmailDetail) ? new Email { EmailDetail = createPersonDto.EmailDetail } : null,
+                Photo = !string.IsNullOrEmpty(createPersonDto.PhotoUrl) ? new Photo { PhotoDetail= createPersonDto.PhotoUrl} : null,
 
                 PhoneNumber = createPersonDto.PhoneNumber.Select(phone => new PhoneNumber { PhoneNumberDetail = phone }).ToList()
 

@@ -25,7 +25,12 @@ namespace PhoneDirectory.Controllers
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody]RegisterDto registerDto)
         {
-            try
+            try { 
+                
+               AppUser existsUser= await _userManager.Users.FirstAsync(x => x.Email == registerDto.Email);
+                   return Conflict();
+            }
+            catch {  try
             {
                 if (!ModelState.IsValid)
                     return BadRequest(ModelState);
@@ -34,6 +39,7 @@ namespace PhoneDirectory.Controllers
                 UserName =registerDto.FullName,
                 Email =registerDto.Email
                 };
+              
                 var createdUser =await _userManager.CreateAsync(appUser,registerDto.Password);
                 if (createdUser.Succeeded)
                 {
@@ -61,7 +67,9 @@ namespace PhoneDirectory.Controllers
             }
             catch (Exception ex) {
                 return StatusCode(500, ex);
-            }   
+            }  
+            }
+           
         }
         [HttpPost("login")]
         public async Task<IActionResult> Login(LoginDto loginDto) {

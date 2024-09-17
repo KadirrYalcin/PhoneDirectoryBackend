@@ -34,14 +34,18 @@ namespace PhoneDirectory.Controllers
         public async Task<IActionResult> getAll()
         {
             var username=User.GetEmail();
+
             var user =await _userManager.FindByEmailAsync(username);
+            if (user == null) { 
+            return Unauthorized();
+            }
             var userList=await _personService.getAll(user);
             return Ok(userList);
         }
 
         [HttpPost]
         [Route("CreatePerson")]
-        public async Task<IActionResult> CreatePerson([FromForm] CreatePersonDto createPersonDto)
+        public async Task<IActionResult> CreatePerson([FromBody] CreatePersonDto createPersonDto)
         {
 
 
@@ -49,23 +53,11 @@ namespace PhoneDirectory.Controllers
             {
                 var username = User.GetEmail();
                 var user = await _userManager.FindByEmailAsync(username); 
-                var person = createPersonDto.ToPersonFromCreatePersonDto();
-
-                if (createPersonDto.PhotoUrl!=null) {
-                    var extension = Path.GetExtension(createPersonDto.PhotoUrl.FileName);
-                    var newname = Guid.NewGuid() + extension;
-                    var uploadsFolder = Path.Combine(Directory.GetCurrentDirectory(), "uploads");
-                    if (!Directory.Exists(uploadsFolder))
-                    {
-                        Directory.CreateDirectory(uploadsFolder);
-                    }
-                    var location = Path.Combine(Directory.GetCurrentDirectory(), uploadsFolder, newname);
-
-                    var stream =new FileStream(location,FileMode.Create);
-                    createPersonDto.PhotoUrl.CopyTo(stream);
-                    Photo photo = new Photo { PhotoDetail=newname};
-                    person.Photo = photo;
+                if (user == null)
+                {
+                    return Unauthorized();
                 }
+                var person = createPersonDto.ToPersonFromCreatePersonDto();
 
                 person.Appuser = user;
                 person.AppUserId = user.Id;
@@ -90,16 +82,31 @@ namespace PhoneDirectory.Controllers
         [Route("{id}")]
         public async Task<IActionResult> GetPersonById(int id)
         {
-            var person = await _personService.GetPersonById(id);
+            try
+            {
+                var person = await _personService.GetPersonById(id);
             if (person == null)
             {
                 return NotFound();
             }
-            return Ok(person.ToPersonDtoFromPerson());
+            var username = User.GetEmail();
+            var user = await _userManager.FindByEmailAsync(username);
+
+                if (person.Appuser.Id != user.Id)
+                {
+                    return Unauthorized();
+                }
+                return Ok(person.ToPersonDtoFromPerson());
+            }
+            catch( Exception ex )
+            {
+                return StatusCode(500, new { ErrorCode = "SERVER_ERROR", Message = ex.Message! });
+            }
+
         }
         [HttpPut]
         [Route("UpdatePerson/{personId}")]
-        public async Task<IActionResult> UpdatePerson([FromRoute]int personId, [FromForm] UpdatePersonDto updatePersonDto)
+        public async Task<IActionResult> UpdatePerson([FromRoute]int personId, [FromBody] UpdatePersonDto updatePersonDto)
         {
             if (updatePersonDto == null)
             {
@@ -112,7 +119,10 @@ namespace PhoneDirectory.Controllers
                 var username = User.GetEmail();
                 var user = await _userManager.FindByEmailAsync(username);
 
-          
+                if (user == null)
+                {
+                    return Unauthorized();
+                }
 
                 var updatedPerson = await _personService.updatePerson(updatePersonDto,personId);
                 var persondto =updatedPerson.ToPersonDtoFromPerson();
